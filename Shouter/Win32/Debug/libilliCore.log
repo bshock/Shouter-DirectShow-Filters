@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppClean.targets(75,5): warning : The process cannot access the file 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\Debug\vc100.idb' because it is being used by another process.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppClean.targets(75,5): warning : The process cannot access the file 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\Debug\vc110.idb' because it is being used by another process.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppClean.targets(75,5): warning : The process cannot access the file 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\Debug\vc100.pdb' because it is being used by another process.
+  stdafx.cpp
+  StringHelper.cpp
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libillicore\stringhelper.cpp(32): fatal error C1083: Cannot open precompiled header file: 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\\Debug\libilliCore.pch': No such file or directory
+  libilliCore.cpp
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libillicore\libillicore.cpp(4): fatal error C1083: Cannot open precompiled header file: 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\\Debug\libilliCore.pch': No such file or directory
+  iLE_Math.cpp
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libillicore\ile_math.cpp(32): fatal error C1083: Cannot open precompiled header file: 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\\Debug\libilliCore.pch': No such file or directory
+  iBE_Math.cpp
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libillicore\ibe_math.cpp(32): fatal error C1083: Cannot open precompiled header file: 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\\Debug\libilliCore.pch': No such file or directory
+  Generating Code...

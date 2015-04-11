@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  StampedOggPacket.cpp
+  OggPaginatorSettings.cpp
+  OggPaginator.cpp
+  OggPageInterleaver.cpp
+  OggPageHeader.cpp
+  OggPage.cpp
+  OggPacketiser.cpp
+  OggPacket.cpp
+  OggMuxStream.cpp
+  OggDataBuffer.cpp
+  Automatically linking to winmm.lib
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(232): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(233): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(286): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(287): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(361): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(362): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(308): warning C4189: 'locPageDataSize' : local variable is initialized but not referenced
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(509): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(514): warning C4127: conditional expression is constant
+  libOOOgg.cpp
+  CircularBuffer.cpp
+  Generating Code...
+  libOOOgg.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\\Debug\libOOOgg.lib

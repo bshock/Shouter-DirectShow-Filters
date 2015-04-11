@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  AbstractTransformFilter.cpp
+  AbstractTransformInputPin.cpp
+  AbstractTransformOutputPin.cpp
+  BasicSeekPassThrough.cpp
+  libDirectshowAbstracts.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Win32\Release\libDirectshowAbstracts.lib

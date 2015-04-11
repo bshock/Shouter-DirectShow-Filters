@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[baseclasses.sln]
+SCC_Aux_Path = "\\GMG-VSS2005\SourceData"
+SCC_Project_Name = "$/CapSure2.0/CapSure2/Depends/3rd_party/directshow/baseclasses", WJCCAAAA
+
+[baseclasses.vcproj]
+SCC_Aux_Path = "\\GMG-VSS2005\SourceData"
+SCC_Project_Name = "$/CapSure2.0/CapSure2/Depends/3rd_party/directshow/baseclasses", WJCCAAAA

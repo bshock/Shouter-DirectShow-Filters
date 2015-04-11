@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  CircularBuffer.cpp
+  libOOOgg.cpp
+  OggDataBuffer.cpp
+  Automatically linking to winmm.lib
+OggDataBuffer.cpp(232): warning C4127: conditional expression is constant
+OggDataBuffer.cpp(233): warning C4127: conditional expression is constant
+OggDataBuffer.cpp(286): warning C4127: conditional expression is constant
+OggDataBuffer.cpp(287): warning C4127: conditional expression is constant
+OggDataBuffer.cpp(361): warning C4127: conditional expression is constant
+OggDataBuffer.cpp(362): warning C4127: conditional expression is constant
+OggDataBuffer.cpp(308): warning C4189: 'locPageDataSize' : local variable is initialized but not referenced
+OggDataBuffer.cpp(509): warning C4127: conditional expression is constant
+OggDataBuffer.cpp(514): warning C4127: conditional expression is constant
+  OggMuxStream.cpp
+  OggPacket.cpp
+  OggPacketiser.cpp
+  OggPage.cpp
+  OggPageHeader.cpp
+  OggPageInterleaver.cpp
+  OggPaginator.cpp
+  OggPaginatorSettings.cpp
+  StampedOggPacket.cpp
+  libOOOgg.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Win32\Release\libOOOgg.lib

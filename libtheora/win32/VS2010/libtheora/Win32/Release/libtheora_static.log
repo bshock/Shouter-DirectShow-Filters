@@ -1,0 +1,184 @@
+﻿  analyze.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+..\..\..\lib\analyze.c(109): warning C4018: '>=' : signed/unsigned mismatch
+..\..\..\lib\analyze.c(591): warning C4018: '<' : signed/unsigned mismatch
+  encapiwrapper.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  encfrag.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  encinfo.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  encode.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+..\..\..\lib\encode.c(575): warning C4389: '!=' : signed/unsigned mismatch
+..\..\..\lib\encode.c(1028): warning C4018: '>=' : signed/unsigned mismatch
+..\..\..\lib\encode.c(1037): warning C4018: '>=' : signed/unsigned mismatch
+..\..\..\lib\encode.c(1445): warning C4018: '>=' : signed/unsigned mismatch
+..\..\..\lib\encode.c(1593): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\lib\encode.c(1602): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\lib\encode.c(1604): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\lib\encode.c(1611): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\lib\encode.c(1613): warning C4018: '<' : signed/unsigned mismatch
+  enquant.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  fdct.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  huffenc.c
+  mathops.c
+  mcenc.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+..\..\..\lib\mcenc.c(132): warning C4127: conditional expression is constant
+..\..\..\lib\mcenc.c(133): warning C4127: conditional expression is constant
+..\..\..\lib\mcenc.c(134): warning C4127: conditional expression is constant
+..\..\..\lib\mcenc.c(135): warning C4127: conditional expression is constant
+..\..\..\lib\mcenc.c(136): warning C4127: conditional expression is constant
+..\..\..\lib\mcenc.c(137): warning C4127: conditional expression is constant
+..\..\..\lib\mcenc.c(657): warning C4018: '<' : signed/unsigned mismatch
+  rate.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+..\..\..\lib\rate.c(268): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\lib\rate.c(365): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\lib\rate.c(385): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\lib\rate.c(489): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\lib\rate.c(932): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\lib\rate.c(1082): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\lib\rate.c(1120): warning C4018: '<' : signed/unsigned mismatch
+  tokenize.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  mmxencfrag.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+..\..\..\lib\x86_vc\mmxencfrag.c(73): warning C4405: 'ret' : identifier is reserved word
+..\..\..\lib\x86_vc\mmxencfrag.c(170): warning C4405: 'ret' : identifier is reserved word
+..\..\..\lib\x86_vc\mmxencfrag.c(556): warning C4405: 'ret' : identifier is reserved word
+..\..\..\lib\x86_vc\mmxencfrag.c(477): warning C4101: 'ret2' : unreferenced local variable
+..\..\..\lib\x86_vc\mmxencfrag.c(573): warning C4028: formal parameter 1 different from declaration
+..\..\..\lib\x86_vc\mmxencfrag.c(708): warning C4028: formal parameter 1 different from declaration
+..\..\..\lib\x86_vc\mmxencfrag.c(715): warning C4028: formal parameter 1 different from declaration
+..\..\..\lib\x86_vc\mmxencfrag.c(719): warning C4101: 'ret2' : unreferenced local variable
+  mmxfdct.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  x86cpu.c
+..\..\..\lib\x86_vc\x86cpu.c(114): warning C4127: conditional expression is constant
+..\..\..\lib\x86_vc\x86cpu.c(122): warning C4127: conditional expression is constant
+..\..\..\lib\x86_vc\x86cpu.c(137): warning C4127: conditional expression is constant
+..\..\..\lib\x86_vc\x86cpu.c(140): warning C4127: conditional expression is constant
+..\..\..\lib\x86_vc\x86cpu.c(144): warning C4127: conditional expression is constant
+..\..\..\lib\x86_vc\x86cpu.c(159): warning C4127: conditional expression is constant
+..\..\..\lib\x86_vc\x86cpu.c(172): warning C4127: conditional expression is constant
+  x86enc.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+..\..\..\lib\x86_vc\x86enc.c(35): warning C4028: formal parameter 1 different from declaration
+..\..\..\lib\x86_vc\x86enc.c(36): warning C4028: formal parameter 1 different from declaration
+..\..\..\lib\x86_vc\x86enc.c(37): warning C4028: formal parameter 1 different from declaration
+  apiwrapper.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  bitpack.c
+  decapiwrapper.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  decinfo.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  Compiling...
+  dequant.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  fragment.c
+  huffdec.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  info.c
+  internal.c
+  state.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  mmxfrag.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+..\..\..\lib\x86_vc\mmxfrag.c(88): warning C4127: conditional expression is constant
+..\..\..\lib\x86_vc\mmxfrag.c(115): warning C4127: conditional expression is constant
+  mmxidct.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  mmxstate.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+..\..\..\lib\x86_vc\mmxstate.c(155): warning C4127: conditional expression is constant
+..\..\..\lib\x86_vc\mmxstate.c(156): warning C4127: conditional expression is constant
+..\..\..\lib\x86_vc\mmxstate.c(158): warning C4127: conditional expression is constant
+..\..\..\lib\x86_vc\mmxstate.c(161): warning C4127: conditional expression is constant
+  x86state.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  decode.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  idct.c
+  quant.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(275): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(276): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(277): warning C4214: nonstandard extension used : bit field types other than int
+c:\users\bshock\documents\visual studio 2012\projects\shouter4\libtheora\lib\x86_vc\../state.h(465): warning C4324: 'oc_theora_state' : structure was padded due to __declspec(align())
+  libtheora_static.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Win32\Release\libtheora_static.lib

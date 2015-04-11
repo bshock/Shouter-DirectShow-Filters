@@ -1,0 +1,17 @@
+﻿C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets(1422,5): warning : The referenced project '..\..\..\..\..\..\..\core\ogg\libogg\win32\VS2010\libogg_static.vcxproj' does not exist.
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets(1422,5): warning : The referenced project '..\..\..\..\..\..\speex\libs\libspeex\win32\VS2008\libspeex\libspeex.vcxproj' does not exist.
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets(1422,5): warning : The referenced project '..\..\..\..\..\..\vorbis\libs\libvorbis\win32\VS2010\libvorbis\libvorbis_static.vcxproj' does not exist.
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets(1422,5): warning : The referenced project '..\..\..\..\..\libs\libtheora\win32\VS2010\libtheora\libtheora_static.vcxproj' does not exist.
+FilterRegistration.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\\Debug\dsfOggMux.lib and object C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\\Debug\dsfOggMux.exp
+dsfOggMux.exp : warning LNK4070: /OUT:OggMux.dll directive in .EXP differs from output filename 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\\Debug\OggShoutStream.dll'; ignoring directive
+strmbasd.lib(amfilter.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(amfilter.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+strmbasd.lib(amvideo.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(amvideo.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+strmbasd.lib(combase.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(combase.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+strmbasd.lib(dllentry.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(dllentry.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+strmbasd.lib(dllsetup.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(dllsetup.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+strmbasd.lib(mtype.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(mtype.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+strmbasd.lib(wxdebug.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(wxdebug.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+strmbasd.lib(wxlist.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(wxlist.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+strmbasd.lib(wxutil.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(wxutil.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+  Shouter.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\\Debug\OggShoutStream.dll

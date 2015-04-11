@@ -1,0 +1,49 @@
+-- compat.h was needed by sock.c.
+	-- Commented it out. No important effect (except for the Intellisense errors mentioned below, particularly between void* and char*).
+
+-- Need pthreads.h.
+	-- Got it as winpthreads.h from http://locklessinc.com/downloads/winpthreads.h
+		-- Various other sources online (pthreads for Win32) if this doesn't work.
+
+-- Problem with ssize_t. Despite typedef in os.h, it wasn't working properly.
+	-- changed to size_t everywhere.
+
+-- shout_t is typedef of shout struct
+	-- Naming problems in this:
+		-- reserved word "public" was an int; changed it to "public_stream"
+		-- function pointer (*close) had a collision with something else (possibly in winpthreads.h?), changed it to close_shout_t
+		-- same with (*send), changed it to send_shout_t
+
+-- Numerous instances where intellisense didn't like that (void*) was being sent into (char*). Either changed the void* to char* or added 
+
+-- Added libogg as a project to the libshout solution (used static library version)
+	-- added an include path the ogg.c in libshout properties includes.
+	-- Seemed to clear up the ogg/ogg.h include.
+
+	(Note that there wasn't much I could see in libogg. Just the header. Was it referring to a compiled library in the project?)
+
+-- Final error was unexpected end of file in timing.c. Needed something like a "gettimeofday" function. Without that and without HAVE_TIMEOFDAY defined,
+	the preprocessor functions were running off the end of the code.
+		-- http://social.msdn.microsoft.com/Forums/vstudio/en-US/430449b3-f6dd-4e18-84de-eebd26a8d668/gettimeofday?forum=vcgeneral
+			-- Added this header file listing for gettimeofday as wintime.h. Included #define HAVE_TIMEOFDAY in it.
+				-- Everything seems to compile now.
+
+-- Question: How would you USE this library?
+	-- I think the answer was implied in http://zmei.jeox.com/wordpress/?p=27,
+		where the author said:
+
+		"Mark the public API functions as __declspec(dllexport)"
+
+		-- Public functions are in shout.h. Note that they use extern "C" for this code, meaning it's not mangled.
+			-- What's the most conventional way of adding __declspec(dllexport)?
+			http://msdn.microsoft.com/en-us/library/aa271769(v=vs.60).aspx
+
+			Something like:
+
+			__declspec(dllexport) void shout_init(void);
+
+
+			Note: EZStream code doesn't seem to use this decoration.
+			-- Reason: you only need declspec if you want to export function for a DYNAMIC library.
+			-- EZStream uses libshout as a STATIC library.
+			

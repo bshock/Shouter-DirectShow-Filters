@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppClean.targets(75,5): warning : The process cannot access the file 'C:\USERS\BSHOCK\DOCUMENTS\VISUAL STUDIO 2012\PROJECTS\SHOUTER\WIN32\DEBUG\VC110.PDB' because it is being used by another process.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppClean.targets(75,5): warning : The process cannot access the file 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\Debug\libOOOgg.pch' because it is being used by another process.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppClean.targets(75,5): warning : The process cannot access the file 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\Debug\vc100.idb' because it is being used by another process.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppClean.targets(75,5): warning : The process cannot access the file 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\Debug\vc110.idb' because it is being used by another process.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppClean.targets(75,5): warning : The process cannot access the file 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\Debug\vc110.pdb' because it is being used by another process.
+  stdafx.cpp
+  FLACPushDecoder.cpp
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libflachelper\flacpushdecoder.cpp(160): warning C4100: 'inMetadata' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libflachelper\flacpushdecoder.cpp(164): warning C4100: 'inStatus' : unreferenced formal parameter
+  FLACMetadataSplitter.cpp
+  FLACHeaderTweaker.cpp
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libflachelper\flacheadertweaker.cpp(90): warning C4244: '=' : conversion from 'unsigned int' to 'unsigned char', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libflachelper\flacheadertweaker.cpp(126): warning C4389: '!=' : signed/unsigned mismatch
+  FLACEncoderSettings.cpp
+  FLACEncoder.cpp
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libflachelper\flacencoder.cpp(85): warning C4189: 'locRetVal' : local variable is initialized but not referenced
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libflachelper\flacencoder.cpp(111): warning C4100: 'inCurrentFrame' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libflachelper\flacencoder.cpp(141): warning C4100: 'metadata' : unreferenced formal parameter
+  Generating Code...
+LINK : fatal error LNK1181: cannot open input file 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\\Debug\FLACEncoder.obj'

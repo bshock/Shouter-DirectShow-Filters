@@ -1,0 +1,187 @@
+﻿  avl.c
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(55): warning C4005: 'ETIMEDOUT' : macro redefinition
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h(130) : see previous definition of 'ETIMEDOUT'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(56): warning C4005: 'ENOTSUP' : macro redefinition
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h(121) : see previous definition of 'ENOTSUP'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(366): warning C4013: 'pthread_rwlock_unlock' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(409): warning C4013: '_endthreadex' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(470): warning C4996: '_ftime64': This function or variable may be unsafe. Consider using _ftime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\sys/timeb.h(124) : see declaration of '_ftime64'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(754): warning C4101: 'i' : unreferenced local variable
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(754): warning C4101: 'j' : unreferenced local variable
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(810): warning C4013: '_beginthreadex' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(960): warning C4244: 'function' : conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1166): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1173): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1184): warning C4018: '>=' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1194): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1300): warning C4244: 'function' : conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+..\src\avl\avl.c(1077): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : see declaration of 'sprintf'
+  httpp.c
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(55): warning C4005: 'ETIMEDOUT' : macro redefinition
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h(130) : see previous definition of 'ETIMEDOUT'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(56): warning C4005: 'ENOTSUP' : macro redefinition
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h(121) : see previous definition of 'ENOTSUP'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(366): warning C4013: 'pthread_rwlock_unlock' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(409): warning C4013: '_endthreadex' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(470): warning C4996: '_ftime64': This function or variable may be unsafe. Consider using _ftime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\sys/timeb.h(124) : see declaration of '_ftime64'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(754): warning C4101: 'i' : unreferenced local variable
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(754): warning C4101: 'j' : unreferenced local variable
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(810): warning C4013: '_beginthreadex' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(960): warning C4244: 'function' : conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1166): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1173): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1184): warning C4018: '>=' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1194): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1300): warning C4244: 'function' : conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+..\src\httpp\httpp.c(341): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(249) : see declaration of 'stricmp'
+..\src\httpp\httpp.c(343): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(249) : see declaration of 'stricmp'
+..\src\httpp\httpp.c(345): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(249) : see declaration of 'stricmp'
+..\src\httpp\httpp.c(347): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(249) : see declaration of 'stricmp'
+..\src\httpp\httpp.c(349): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(249) : see declaration of 'stricmp'
+..\src\httpp\httpp.c(351): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(249) : see declaration of 'stricmp'
+..\src\httpp\httpp.c(367): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+..\src\httpp\httpp.c(450): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+..\src\httpp\httpp.c(451): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+..\src\httpp\httpp.c(490): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+  mp3.c
+  ogg.c
+  resolver.c
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(55): warning C4005: 'ETIMEDOUT' : macro redefinition
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h(130) : see previous definition of 'ETIMEDOUT'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(56): warning C4005: 'ENOTSUP' : macro redefinition
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h(121) : see previous definition of 'ENOTSUP'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(366): warning C4013: 'pthread_rwlock_unlock' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(409): warning C4013: '_endthreadex' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(470): warning C4996: '_ftime64': This function or variable may be unsafe. Consider using _ftime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\sys/timeb.h(124) : see declaration of '_ftime64'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(754): warning C4101: 'i' : unreferenced local variable
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(754): warning C4101: 'j' : unreferenced local variable
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(810): warning C4013: '_beginthreadex' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(960): warning C4244: 'function' : conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1166): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1173): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1184): warning C4018: '>=' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1194): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1300): warning C4244: 'function' : conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+..\src\net\resolver.c(155): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(191) : see declaration of 'strncpy'
+..\src\net\resolver.c(162): warning C4133: 'function' : incompatible types - from 'in_addr *' to 'const char *'
+..\src\net\resolver.c(164): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(191) : see declaration of 'strncpy'
+..\src\net\resolver.c(180): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(191) : see declaration of 'strncpy'
+..\src\net\resolver.c(189): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(191) : see declaration of 'strncpy'
+  shout.c
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(55): warning C4005: 'ETIMEDOUT' : macro redefinition
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h(130) : see previous definition of 'ETIMEDOUT'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(56): warning C4005: 'ENOTSUP' : macro redefinition
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h(121) : see previous definition of 'ENOTSUP'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(366): warning C4013: 'pthread_rwlock_unlock' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(409): warning C4013: '_endthreadex' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(470): warning C4996: '_ftime64': This function or variable may be unsafe. Consider using _ftime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\sys/timeb.h(124) : see declaration of '_ftime64'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(754): warning C4101: 'i' : unreferenced local variable
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(754): warning C4101: 'j' : unreferenced local variable
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(810): warning C4013: '_beginthreadex' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(960): warning C4244: 'function' : conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1166): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1173): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1184): warning C4018: '>=' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1194): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1300): warning C4244: 'function' : conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+..\src\shout.c(276): warning C4244: 'return' : conversion from 'uint64_t' to 'int', possible loss of data
+..\src\shout.c(503): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : see declaration of 'sprintf'
+..\src\shout.c(856): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : see declaration of '_vsnprintf'
+..\src\shout.c(865): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : see declaration of '_vsnprintf'
+..\src\shout.c(1181): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : see declaration of 'sprintf'
+..\src\shout.c(1190): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : see declaration of 'sprintf'
+  sock.c
+..\src\net\sock.c(51): warning C4005: 'EINPROGRESS' : macro redefinition
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h(104) : see previous definition of 'EINPROGRESS'
+..\src\net\sock.c(52): warning C4005: 'ENOTSOCK' : macro redefinition
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h(120) : see previous definition of 'ENOTSOCK'
+..\src\net\sock.c(53): warning C4005: 'EWOULDBLOCK' : macro redefinition
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h(132) : see previous definition of 'EWOULDBLOCK'
+..\src\net\sock.c(54): warning C4005: 'EALREADY' : macro redefinition
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h(95) : see previous definition of 'EALREADY'
+..\src\net\sock.c(234): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : see declaration of 'sscanf'
+..\src\net\sock.c(430): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : see declaration of '_vsnprintf'
+..\src\net\sock.c(442): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(349) : see declaration of '_vsnprintf'
+..\src\net\sock.c(945): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(191) : see declaration of 'strncpy'
+  speex.c
+  theora.c
+  thread.c
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(55): warning C4005: 'ETIMEDOUT' : macro redefinition
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h(130) : see previous definition of 'ETIMEDOUT'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(56): warning C4005: 'ENOTSUP' : macro redefinition
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h(121) : see previous definition of 'ENOTSUP'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(366): warning C4013: 'pthread_rwlock_unlock' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(409): warning C4013: '_endthreadex' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(470): warning C4996: '_ftime64': This function or variable may be unsafe. Consider using _ftime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\sys/timeb.h(124) : see declaration of '_ftime64'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(754): warning C4101: 'i' : unreferenced local variable
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(754): warning C4101: 'j' : unreferenced local variable
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(810): warning C4013: '_beginthreadex' undefined; assuming extern returning int
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(960): warning C4244: 'function' : conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1166): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1173): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1184): warning C4018: '>=' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1194): warning C4018: '>' : signed/unsigned mismatch
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\winpthreads.h(1300): warning C4244: 'function' : conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+..\src\thread\thread.c(50): warning C4117: macro name '__FUNCTION__' is reserved, '#define' ignored
+..\src\thread\thread.c(175): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+..\src\thread\thread.c(178): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+..\src\thread\thread.c(283): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+..\src\thread\thread.c(289): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+..\src\thread\thread.c(714): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+  timing.c
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\wintime.h(47): warning C4996: '__timezone': This function or variable may be unsafe. Consider using _get_timezone instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.h(139) : see declaration of '__timezone'
+C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\src\wintime.h(48): warning C4996: '__daylight': This function or variable may be unsafe. Consider using _get_daylight instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.h(131) : see declaration of '__daylight'
+..\src\timing\timing.c(72): warning C4244: '=' : conversion from 'uint64_t' to 'long', possible loss of data
+..\src\timing\timing.c(81): warning C4244: 'function' : conversion from 'uint64_t' to 'DWORD', possible loss of data
+  util.c
+..\src\util.c(44): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+..\src\util.c(233): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+..\src\util.c(241): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(241) : see declaration of 'strdup'
+..\src\util.c(272): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : see declaration of 'sprintf'
+..\src\util.c(282): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : see declaration of 'sprintf'
+..\src\util.c(300): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : see declaration of 'sprintf'
+  vorbis.c
+  Generating Code...
+  libshout.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\win32\.\Release\libshout.lib

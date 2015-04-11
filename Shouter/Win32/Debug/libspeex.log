@@ -1,0 +1,462 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppClean.targets(75,5): warning : The process cannot access the file 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\Debug\vc100.idb' because it is being used by another process.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppClean.targets(75,5): warning : The process cannot access the file 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\Debug\vc110.idb' because it is being used by another process.
+  window.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\window.c(72): warning C4305: 'initializing' : truncation from 'double' to 'const spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\window.c(73): warning C4305: 'initializing' : truncation from 'double' to 'const spx_word16_t'
+  vq.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vq.c(76): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vq.c(110): warning C4100: 'stack' : unreferenced formal parameter
+  vbr.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(83): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(88): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(89): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(95): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(142): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(149): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(152): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(154): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(170): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(171): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(180): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(181): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(187): warning C4305: '-=' : truncation from 'double' to 'float'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(189): warning C4305: '-=' : truncation from 'double' to 'float'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(191): warning C4305: '-=' : truncation from 'double' to 'float'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(194): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(195): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(204): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(206): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(211): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(218): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(219): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(222): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(240): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(247): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(249): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(252): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(124): warning C4100: 'pitch' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\vbr.c(271): warning C4100: 'vbr' : unreferenced formal parameter
+  stereo.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(57): warning C4244: 'return' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(91): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(116): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(323): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\stereo.c(117): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\stereo.c(127): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\stereo.c(134): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\stereo.c(170): warning C4244: '=' : conversion from 'double' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\stereo.c(195): warning C4244: '=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\stereo.c(196): warning C4244: '=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\stereo.c(197): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\stereo.c(212): warning C4244: '=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\stereo.c(286): warning C4244: '=' : conversion from 'unsigned int' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\stereo.c(288): warning C4244: '=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\stereo.c(274): warning C4100: 'state' : unreferenced formal parameter
+  speex_header.c
+  speex_callbacks.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\speex_callbacks.c(75): warning C4100: 'state' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\speex_callbacks.c(83): warning C4100: 'state' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\speex_callbacks.c(91): warning C4100: 'state' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\speex_callbacks.c(100): warning C4100: 'state' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\speex_callbacks.c(109): warning C4100: 'state' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\speex_callbacks.c(121): warning C4244: '=' : conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\speex_callbacks.c(118): warning C4100: 'state' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\speex_callbacks.c(130): warning C4244: '=' : conversion from 'unsigned int' to 'unsigned char', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\speex_callbacks.c(127): warning C4100: 'state' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\speex_callbacks.c(139): warning C4100: 'data' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\speex_callbacks.c(139): warning C4100: 'state' : unreferenced formal parameter
+  speex.c
+  smallft.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\smallft.c(101): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\smallft.c(102): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\smallft.c(285): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\smallft.c(286): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\smallft.c(855): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\smallft.c(856): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  sb_celp.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(57): warning C4244: 'return' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(91): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(116): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(323): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(129): warning C4305: 'initializing' : truncation from 'double' to 'const spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(130): warning C4305: 'initializing' : truncation from 'double' to 'const spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(132): warning C4305: 'initializing' : truncation from 'double' to 'const spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(133): warning C4305: 'initializing' : truncation from 'double' to 'const spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(134): warning C4305: 'initializing' : truncation from 'double' to 'const spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(135): warning C4305: 'initializing' : truncation from 'double' to 'const spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(411): warning C4305: 'function' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(414): warning C4305: 'function' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(435): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(437): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(439): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(449): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(461): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(484): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(569): warning C4305: 'function' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(570): warning C4305: 'function' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(592): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(656): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(1002): warning C4305: 'function' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(1022): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(1032): warning C4244: '=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(1048): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(1089): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(1148): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(1181): warning C4244: '=' : conversion from 'spx_int32_t' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\sb_celp.c(1286): warning C4127: conditional expression is constant
+  quant_lsp.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(82): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(90): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(171): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(175): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(206): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(217): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(222): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(226): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(230): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(234): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(238): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(254): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(257): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(276): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(287): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(292): warning C4244: '+=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(296): warning C4244: '+=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(300): warning C4244: '+=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(340): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(343): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(359): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(371): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(376): warning C4244: '+=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\quant_lsp.c(381): warning C4244: '+=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+  preprocess.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(57): warning C4244: 'return' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(91): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(116): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(323): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(283): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(286): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(367): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(372): warning C4244: 'return' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(374): warning C4244: 'return' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(388): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(389): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(393): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(448): warning C4244: 'function' : conversion from 'int' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(510): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(512): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(518): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(521): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(522): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(583): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(589): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(590): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(597): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(723): warning C4100: 'echo' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(746): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(831): warning C4244: 'function' : conversion from 'spx_word16_t' to 'int', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(870): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(878): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(920): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(932): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(973): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(989): warning C4244: '=' : conversion from 'spx_word16_t' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(991): warning C4244: '=' : conversion from 'spx_word16_t' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(1083): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(1086): warning C4244: '=' : conversion from 'double' to 'spx_int32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(1089): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(1092): warning C4244: '=' : conversion from 'double' to 'spx_int32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(1095): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(1098): warning C4244: '=' : conversion from 'double' to 'spx_int32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(1141): warning C4244: '=' : conversion from 'spx_word16_t' to 'spx_int32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(1149): warning C4244: '=' : conversion from 'spx_word16_t' to 'spx_int32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(1178): warning C4244: '=' : conversion from 'double' to 'spx_int32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(1181): warning C4244: '=' : conversion from 'double' to 'spx_int32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(1197): warning C4244: '=' : conversion from 'spx_word16_t' to 'spx_int32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(1201): warning C4244: '=' : conversion from 'spx_int32_t' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\preprocess.c(1208): warning C4244: '=' : conversion from 'float' to 'spx_int32_t', possible loss of data
+  nb_celp.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(57): warning C4244: 'return' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(91): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(116): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(323): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(437): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(439): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(441): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(508): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(593): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(604): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(623): warning C4244: '=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(1016): warning C4305: 'initializing' : truncation from 'double' to 'const spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(1047): warning C4305: '=' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(1057): warning C4244: 'function' : conversion from 'int' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(1068): warning C4305: 'function' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(1242): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(1266): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(1277): warning C4244: '=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(1364): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(1565): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(1629): warning C4244: '=' : conversion from 'spx_int32_t' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\nb_celp.c(1860): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  modes_wb.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\modes_wb.c(188): warning C4305: 'initializing' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\modes_wb.c(190): warning C4305: 'initializing' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\modes_wb.c(234): warning C4305: 'initializing' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\modes_wb.c(236): warning C4305: 'initializing' : truncation from 'double' to 'spx_word16_t'
+  modes.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\modes.c(209): warning C4305: 'initializing' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\modes.c(230): warning C4305: 'initializing' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\modes.c(251): warning C4305: 'initializing' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\modes.c(272): warning C4305: 'initializing' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\modes.c(293): warning C4305: 'initializing' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\modes.c(314): warning C4305: 'initializing' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\modes.c(329): warning C4305: 'initializing' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\modes.c(331): warning C4305: 'initializing' : truncation from 'double' to 'spx_word16_t'
+  mdf.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(57): warning C4244: 'return' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(91): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(116): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(323): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(198): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(353): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(455): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(464): warning C4244: 'initializing' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(465): warning C4305: '=' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(479): warning C4305: '=' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(481): warning C4305: '=' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(483): warning C4305: '=' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(485): warning C4305: '=' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(646): warning C4100: 'Yout' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(675): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(893): warning C4244: '=' : conversion from 'double' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(961): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(991): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(1036): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(1064): warning C4244: '=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(1066): warning C4244: '=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(1082): warning C4244: '=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(1101): warning C4244: '=' : conversion from 'int' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(1140): warning C4244: '=' : conversion from 'spx_int32_t' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(1111): warning C4100: 'len' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(1163): warning C4305: '=' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(1165): warning C4305: '=' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(1167): warning C4305: '=' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\mdf.c(1189): warning C4244: '=' : conversion from 'spx_word32_t' to 'spx_int32_t', possible loss of data
+  ltp.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(57): warning C4244: 'return' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(91): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(116): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(323): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(142): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(479): warning C4244: '*=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(480): warning C4244: '*=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(481): warning C4244: '*=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(492): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(493): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(494): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(367): warning C4100: 'scaledown' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(359): warning C4100: 'bits' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(638): warning C4244: '=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(538): warning C4100: 'pitch_coef' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(694): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(695): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(696): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(702): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(708): warning C4244: 'initializing' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(710): warning C4305: '=' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(712): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(666): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(660): warning C4100: 'pitch_coef' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(659): warning C4100: 'end' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(786): warning C4305: '=' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(775): warning C4100: 'cumul_gain' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(774): warning C4100: 'plc_tuning' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(773): warning C4100: 'cdbk_offset' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(772): warning C4100: 'complexity' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(771): warning C4100: 'r' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(768): warning C4100: 'bits' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(764): warning C4100: 'end' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(762): warning C4100: 'par' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(757): warning C4100: 'sw' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(829): warning C4305: '=' : truncation from 'double' to 'spx_word16_t'
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(820): warning C4100: 'cdbk_offset' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(819): warning C4100: 'last_pitch_gain' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(818): warning C4100: 'subframe_offset' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(817): warning C4100: 'count_lost' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(816): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(815): warning C4100: 'bits' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(811): warning C4100: 'par' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\ltp.c(809): warning C4100: 'end' : unreferenced formal parameter
+  lsp_tables_nb.c
+  lsp.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(57): warning C4244: 'return' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(91): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(116): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(323): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\lsp.c(196): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\lsp.c(177): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\lsp.c(335): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\lsp.c(362): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\lsp.c(377): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\lsp.c(522): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\lsp.c(634): warning C4244: '=' : conversion from 'double' to 'spx_lsp_t', possible loss of data
+  lpc.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\lpc.c(99): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+  kiss_fftr.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(57): warning C4244: 'return' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(91): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(116): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(323): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(75): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(125): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(126): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(127): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(129): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(130): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(131): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(132): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(159): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(160): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(161): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(162): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(163): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(285): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(286): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(287): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(288): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fftr.c(289): warning C4127: conditional expression is constant
+  Generating Code...
+  Compiling...
+  kiss_fft.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(57): warning C4244: 'return' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(91): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(116): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(323): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(75): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(77): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(78): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(110): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(111): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(112): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(114): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(115): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(116): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(117): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(118): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(122): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(140): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(141): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(142): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(146): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(147): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(148): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(149): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(152): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(156): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(189): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(190): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(192): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(193): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(197): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(198): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(200): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(202): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(243): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(244): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(245): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(246): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(248): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(249): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(250): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(251): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(262): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(263): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(270): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(271): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(313): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(314): warning C4127: conditional expression is constant
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(363): warning C4100: 's2' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\kiss_fft.c(494): warning C4127: conditional expression is constant
+  jitter.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\jitter.c(128): warning C4244: '=' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\jitter.c(203): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\jitter.c(236): warning C4244: '=' : conversion from 'float' to 'spx_int32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\jitter.c(241): warning C4244: '=' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\jitter.c(352): warning C4244: 'function' : conversion from 'spx_int32_t' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\jitter.c(447): warning C4018: '<' : signed/unsigned mismatch
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\jitter.c(696): warning C4018: '<' : signed/unsigned mismatch
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\jitter.c(716): warning C4100: 'start_offset' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\jitter.c(716): warning C4100: 'packet' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\jitter.c(806): warning C4055: 'type cast' : from data pointer 'void *' to function pointer 'void (__cdecl *)(void *)'
+  high_lsp_tables.c
+  hexc_table.c
+  hexc_10_32_table.c
+  gain_table_lbr.c
+  gain_table.c
+  filters.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(57): warning C4244: 'return' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(91): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(116): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(323): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(308): warning C4244: 'return' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(319): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(339): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(359): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(406): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(441): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(477): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(735): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(736): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(737): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(767): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(768): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(789): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(790): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(792): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(793): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(662): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(657): warning C4100: 'p' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filters.c(656): warning C4100: 'ak' : unreferenced formal parameter
+  filterbank.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(57): warning C4244: 'return' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(91): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(116): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(323): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filterbank.c(63): warning C4244: '=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filterbank.c(83): warning C4244: '=' : conversion from 'double' to 'spx_word32_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\filterbank.c(54): warning C4100: 'type' : unreferenced formal parameter
+  fftwrap.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\fftwrap.c(114): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\fftwrap.c(120): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+  exc_8_128_table.c
+  exc_5_64_table.c
+  exc_5_256_table.c
+  exc_20_32_table.c
+  exc_10_32_table.c
+  exc_10_16_table.c
+  cb_search.c
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(57): warning C4244: 'return' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(91): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(116): warning C4244: 'return' : conversion from 'int' to 'spx_int16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\math_approx.h(323): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(53): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(53): warning C4100: 'resp2' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(195): warning C4244: '=' : conversion from 'double' to 'spx_sig_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(216): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(439): warning C4244: '=' : conversion from 'double' to 'spx_word16_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(493): warning C4244: '=' : conversion from 'double' to 'spx_sig_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(567): warning C4244: '+=' : conversion from 'double' to 'spx_sig_t', possible loss of data
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(520): warning C4100: 'seed' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(519): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(517): warning C4100: 'nsf' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(585): warning C4100: 'update_target' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(584): warning C4100: 'complexity' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(582): warning C4100: 'bits' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(581): warning C4100: 'r' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(577): warning C4100: 'par' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(604): warning C4100: 'stack' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(603): warning C4100: 'bits' : unreferenced formal parameter
+c:\users\bshock\documents\visual studio 2012\projects\shouter\win32\libspeex\libspeex\cb_search.c(601): warning C4100: 'par' : unreferenced formal parameter
+  bits.c
+  Generating Code...
+  libspeex.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter\Win32\\Debug\libspeex.lib

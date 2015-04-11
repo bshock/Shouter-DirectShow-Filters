@@ -1,0 +1,120 @@
+This solution creates two items of note:
+	MP3ShoutStream.dll
+	OggShoutStream.dll
+
+These are DirectShow filters that allow live-streaming through the Icecast server.
+
+
+Using MP3ShoutStream
+
+1) Download a copy of the Icecast server and install it on an accessible PC.
+	-- Configure a password.
+	-- Make sure you know its IP and port. (You don't have to worry about setting a mount unless you have a special situation. See the Icecast docs for more on that.)
+	-- Start Icecast, probably from a .bat file. Make sure it's running and waiting for you.
+2) Register the DS filter on your PC with regsvr32.
+3) Obtain a DS filter that handles MP3 encoding. Monogram MP3 encoder or LAME encoder will do. Make sure these are registered as well.
+4) Make sure an audio source is available on your PC.
+5) As a demonstration, use the GraphEdit application from Microsoft (the x86 version) to run MP3ShoutStream.
+	a) use the Graph>Insert function to load your audio source, your MP3 encoder, and MP3ShoutStream onto the GraphEdit environment.
+	b) link up these filters with the source going to the MP3 encoder, and the MP3 encoder going to MP3ShoutStream.
+	c) Make sure MPShoutStream's Registry information is set up for your instance of Icecast:
+
+[HKEY_CURRENT_USER\Software\DSFILTERS\MP3SHOUTSTREAM]
+"host"="10.0.0.152"
+"port"=dword:00002329
+"mount"="/mp3list"
+"URL"="http://10.0.0.152:9001/mp3list"
+"password"="globalmed123"
+"serverpublic"=dword:00000001
+"reconnectattempts"=dword:00000003
+
+	-- Notes:
+	-- You need to use the correct host, port, URL, mount, and password for your instance of Icecast.
+	-- "mount" is relatively arbitrary. Just choose something memorable and descriptive as part of the full access to the Icecast stream.
+	-- "password" will be whatever password you've given your instance of Icecast in its configuration file.
+
+	d) Once your graph is hooked up in GraphEdit and you know Icecast is running, hit the "play" button in GraphEdit. Your audio source should be sending an MP3 stream into Icecast, which is broadcasting it on the URL in your Registry.
+
+6) You should be able to access the Icecast stream on your local network through various ways:
+	-- VLC is good at this kind of thing. You should be able to use the File>Open Network Stream>Network option, put in the URL as listed in the Registry, and play your live audio.
+	-- You should also be able to play this audio through various browser applications, such as JPlayer or JWPlayer.
+		-- If you're on IE9+ or Chrome, the HTML5 <audio> control can natively accept Icecast streams and play them without plugins. For example:
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+   <title>HTML5 audio1 test</title>
+   <script type="text/javascript">
+   function playStream() {
+     console.log("playStream 1");
+     try {
+       var myaudio = new Audio('http://10.0.0.152:9001/mp3list');
+       myaudio.id = 'playerMyAudio';
+       myaudio.type = 'audio/mp3';
+       myaudio.play();
+     } catch (e) {
+       alert('no audio support!');
+     } 
+     console.log("playStream 2");
+   }
+   </script>
+</head>    
+<body>    
+TESTING ONE TWO THREE.
+<button onclick="playStream()">test</button>
+<!--<audio controls>
+  <source autoplay src="http://10.0.0.152:9001/mp3list" type='audio/mp3'>
+</audio>-->
+</body>
+</html>
+
+		-- Note that you may have to access this page from some sort of Web Server, rather than just try to load it from your harddrive. (Any server will do: NGinx, IIS, etc.)
+
+
+Using OggShoutStream
+
+1) Download a copy of the Icecast server and install it on an accessible PC.
+	-- Configure a password.
+	-- Make sure you know its IP and port. (You don't have to worry about setting a mount unless you have a special situation. See the Icecast docs for more on that.)
+	-- Start Icecast, probably from a .bat file. Make sure it's running and waiting for you.
+2) Register the DS filter on your PC with regsvr32.
+3) Obtain a DS filter that handles Theora encoding. Xiph.org should have a Theora Encoder filter.
+4) Make sure a video source is available on your PC.
+5) As a demonstration, use the GraphEdit application from Microsoft (the x86 version) to run OggShoutStream.
+	a) use the Graph>Insert function to load your video source, your Theora encoder, and OggShoutStream onto the GraphEdit environment.
+	b) link up these filters with the source going to the Theora encoder, and the Theora encoder going to OggShoutStream.
+	c) Make sure OggShoutStream's Registry information is set up for your instance of Icecast:
+
+[HKEY_CURRENT_USER\Software\DSFILTERS\MP3SHOUTSTREAM]
+"host"="10.0.0.152"
+"port"=dword:00002329
+"mount"="/mp3list"
+"URL"="http://10.0.0.152:9001/mp3list"
+"password"="globalmed123"
+"serverpublic"=dword:00000001
+"reconnectattempts"=dword:00000003
+
+	-- Notes:
+	-- You need to use the correct host, port, URL, mount, and password for your instance of Icecast.
+	-- "mount" is relatively arbitrary. Just choose something memorable and descriptive as part of the full access to the Icecast stream.
+	-- "password" will be whatever password you've given your instance of Icecast in its configuration file.
+
+	d) Once your graph is hooked up in GraphEdit and you know Icecast is running, hit the "play" button in GraphEdit. Your video source should be sending an Ogg Theora stream into Icecast, which is broadcasting it on the URL in your Registry.
+
+7) You should be able to access the Icecast stream on your local network through various ways:
+	-- VLC is good at this kind of thing. You should be able to use the File>Open Network Stream>Network option, put in the URL as listed in the Registry, and play your live video.
+	-- You should also be able to play this video through various browser applications, such as JPlayer or JWPlayer.
+		-- Note that UNLIKE Icecast audio, you'll need Javascript player code and probably Shockwave Flash to play Ogg Theora video.
+		-- Note also that no version of IE to date will handle Ogg Theora. M$ is not big on open source media.
+
+Note: If you've come this far, you can probably include Ogg Vorbis audio with your Ogg Theora video.
+	-- Find the Xiph.org Vorbis encoder filter.
+	-- In GraphEdit, connect an audio source to the Vorbis encoder and the Vorbis encoder to OggShoutStream.
+		-- OggShoutStream is derived from the Xiph Ogg Multiplexer, so it should grow another pin to accommodate extra input.
+	-- Since the whole idea of an Ogg multiplexer is to package your media streams in Ogg streaming format, both audio and video should be sent to Icecast and streamed out.
+		-- Remember that the Theora Encoder just encodes video in Theora compression format and the Vorbis Encoder just encodes audio in Vorbis compression format.
+		-- OggShoutStream is basically just a mash-up of the Ogg Muxer filter and the libshout library, which sends media to Icecast in a comprehensible form.
+		-- OggShoutStream wraps raw Theora and Vorbis streams in Ogg streaming format, so you now have interleaved Ogg Theora and Ogg Vorbis.
+
