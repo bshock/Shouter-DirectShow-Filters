@@ -1,213 +1,271 @@
-﻿  window.c
-  vorbisenc.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\modes\psych_44.h(27): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\modes\psych_44.h(33): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\modes\psych_44.h(39): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\modes\psych_44.h(45): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\modes\psych_44.h(51): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(231): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(248): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(249): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(251): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(258): warning C4244: 'initializing' : conversion from 'const double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(259): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(271): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(272): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(273): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(274): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(276): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(277): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(278): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(282): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(284): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(285): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(286): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(289): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(291): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(292): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(312): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(338): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(345): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(346): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(347): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(348): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(349): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(351): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(354): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(362): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(377): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(383): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(388): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(398): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(403): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(410): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(417): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(429): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(430): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(447): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(529): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(593): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(622): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(659): warning C4244: 'initializing' : conversion from 'const double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(660): warning C4244: 'initializing' : conversion from 'const double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(661): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(717): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(834): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(840): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(842): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(877): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(909): warning C4305: '+=' : truncation from 'double' to 'float'
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(910): warning C4305: '=' : truncation from 'double' to 'float'
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(958): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(960): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(970): warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(981): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(1065): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(1081): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\vorbisenc.c(1084): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-  synthesis.c
-  smallft.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\smallft.c(99): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\smallft.c(100): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\smallft.c(283): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\smallft.c(284): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\smallft.c(853): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\smallft.c(854): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-  sharedbook.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\sharedbook.c(55): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\sharedbook.c(56): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\sharedbook.c(67): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\sharedbook.c(164): warning C4244: 'initializing' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\sharedbook.c(171): warning C4127: conditional expression is constant
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\sharedbook.c(222): warning C4244: 'initializing' : conversion from 'long' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\sharedbook.c(223): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\sharedbook.c(242): warning C4244: 'initializing' : conversion from 'long' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\sharedbook.c(243): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-  res0.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\res0.c(432): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\res0.c(452): warning C4244: '*=' : conversion from 'float' to 'int', possible loss of data
-  registry.c
-  psy.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(137): warning C4244: 'function' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(139): warning C4244: 'function' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(173): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(174): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(175): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(192): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(193): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(217): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(218): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(239): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(254): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(259): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(274): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(276): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(277): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(290): warning C4305: '=' : truncation from 'double' to 'float'
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(291): warning C4305: '=' : truncation from 'double' to 'float'
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(296): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(301): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(312): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(325): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(327): warning C4244: 'function' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(336): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(348): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(402): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(404): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(463): warning C4127: conditional expression is constant
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(571): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(739): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(801): warning C4305: '=' : truncation from 'double' to 'float'
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(807): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(814): warning C4305: '=' : truncation from 'double' to 'float'
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(818): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(922): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(953): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(955): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(976): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(978): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(992): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(1021): warning C4244: 'initializing' : conversion from 'const double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(1022): warning C4244: 'initializing' : conversion from 'const double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(1050): warning C4244: '=' : conversion from 'const double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(1128): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(1157): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(1176): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\psy.c(1178): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-  mdct.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\mdct.c(58): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\mdct.c(66): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\mdct.c(67): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\mdct.c(68): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\mdct.c(69): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\mdct.c(72): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\mdct.c(73): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-  mapping0.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\mapping0.c(272): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\mapping0.c(318): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\mapping0.c(335): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\mapping0.c(393): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-  lsp.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\lsp.c(252): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\lsp.c(259): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\lsp.c(276): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\lsp.c(320): warning C4127: conditional expression is constant
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\lsp.c(352): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\lsp.c(399): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\lsp.c(451): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\lsp.c(454): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-  lpc.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\lpc.c(130): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
-  lookup.c
-  info.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\info.c(57): warning C4244: '=' : conversion from 'long' to 'char', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\info.c(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\info.c(79): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\info.c(80): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\info.c(81): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\info.c(103): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\info.c(104): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\info.c(122): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\info.c(123): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
-  floor1.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\floor1.c(292): warning C4244: 'initializing' : conversion from 'const float' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\floor1.c(516): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\floor1.c(517): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-  floor0.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\floor0.c(126): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\floor0.c(137): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-  envelope.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\envelope.c(48): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\envelope.c(65): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\envelope.c(68): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\envelope.c(127): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\envelope.c(145): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-  codebook.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\codebook.c(183): warning C4244: '=' : conversion from 'long' to 'char', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\codebook.c(192): warning C4244: '=' : conversion from 'long' to 'char', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\codebook.c(214): warning C4244: '=' : conversion from 'long' to 'char', possible loss of data
-  block.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\block.c(863): warning C4244: 'initializing' : conversion from 'ogg_int64_t' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\block.c(901): warning C4244: 'initializing' : conversion from 'ogg_int64_t' to 'long', possible loss of data
-  bitrate.c
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\bitrate.c(42): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\bitrate.c(43): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\bitrate.c(44): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\bitrate.c(51): warning C4244: 'initializing' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\bitrate.c(83): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\bitrate.c(88): warning C4244: 'initializing' : conversion from 'double' to 'long', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\bitrate.c(135): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-  Generating Code...
-  Compiling...
-  analysis.c
-  Generating Code...
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libvorbis\lib\analysis.c(47): warning C4706: assignment within conditional expression
-  libvorbis_static.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\\Debug\libvorbis_static.lib
+﻿Build started 11/8/2015 1:38:12 PM.
+     1>Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libvorbis\win32\VS2010\libvorbis\libvorbis_static.vcxproj" on node 3 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Win32\Debug\libvorbis_static.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Win32\Debug\libvorbis_static.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\include /I..\..\..\..\libogg\include /I"..\..\..\..\libogg-1.2.0\include" /I..\..\..\..\ogg\include /I..\..\..\..\..\..\..\core\ogg\libogg\include /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D LIBVORBIS_EXPORTS /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\..\lib\analysis.c ..\..\..\lib\bitrate.c ..\..\..\lib\block.c ..\..\..\lib\codebook.c ..\..\..\lib\envelope.c ..\..\..\lib\floor0.c ..\..\..\lib\floor1.c ..\..\..\lib\info.c ..\..\..\lib\lookup.c ..\..\..\lib\lpc.c ..\..\..\lib\lsp.c ..\..\..\lib\mapping0.c ..\..\..\lib\mdct.c ..\..\..\lib\psy.c ..\..\..\lib\registry.c ..\..\..\lib\res0.c ..\..\..\lib\sharedbook.c ..\..\..\lib\smallft.c ..\..\..\lib\synthesis.c ..\..\..\lib\vorbisenc.c ..\..\..\lib\window.c
+         window.c
+         vorbisenc.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(27): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(27): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(27): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(27): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(27): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(33): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(33): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(33): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(33): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(33): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(39): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(39): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(39): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(39): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(39): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(45): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(45): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(45): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(45): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(45): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(51): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(51): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(51): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(51): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\modes\psych_44.h(51): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(231): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(248): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(249): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(251): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(258): warning C4244: 'initializing' : conversion from 'const double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(259): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(271): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(272): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(273): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(274): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(276): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(277): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(278): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(282): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(284): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(285): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(286): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(289): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(291): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(292): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(312): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(338): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(345): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(346): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(347): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(348): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(349): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(351): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(354): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(362): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(377): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(383): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(388): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(398): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(403): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(410): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(417): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(429): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(430): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(447): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(529): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(593): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(622): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(659): warning C4244: 'initializing' : conversion from 'const double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(660): warning C4244: 'initializing' : conversion from 'const double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(661): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(717): warning C4244: 'function' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(834): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(840): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(842): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(877): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(909): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(910): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(958): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(960): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(970): warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(981): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(1065): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(1081): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\vorbisenc.c(1084): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+         synthesis.c
+         smallft.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\smallft.c(99): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\smallft.c(100): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\smallft.c(283): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\smallft.c(284): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\smallft.c(853): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\smallft.c(854): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         sharedbook.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\sharedbook.c(55): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\sharedbook.c(56): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\sharedbook.c(67): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\sharedbook.c(164): warning C4244: 'initializing' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\sharedbook.c(171): warning C4127: conditional expression is constant
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\sharedbook.c(222): warning C4244: 'initializing' : conversion from 'long' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\sharedbook.c(223): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\sharedbook.c(242): warning C4244: 'initializing' : conversion from 'long' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\sharedbook.c(243): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         res0.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\res0.c(432): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\res0.c(452): warning C4244: '*=' : conversion from 'float' to 'int', possible loss of data
+         registry.c
+         psy.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(137): warning C4244: 'function' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(139): warning C4244: 'function' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(173): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(174): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(175): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(192): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(193): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(217): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(218): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(239): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(254): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(259): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(274): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(276): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(277): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(290): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(291): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(296): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(301): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(312): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(325): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(327): warning C4244: 'function' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(336): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(348): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(402): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(404): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(463): warning C4127: conditional expression is constant
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(571): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(739): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(801): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(807): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(814): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(818): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(922): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(953): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(955): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(976): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(978): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(992): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(1021): warning C4244: 'initializing' : conversion from 'const double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(1022): warning C4244: 'initializing' : conversion from 'const double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(1050): warning C4244: '=' : conversion from 'const double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(1128): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(1157): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(1176): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\psy.c(1178): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         mdct.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\mdct.c(58): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\mdct.c(66): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\mdct.c(67): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\mdct.c(68): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\mdct.c(69): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\mdct.c(72): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\mdct.c(73): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         mapping0.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\mapping0.c(272): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\mapping0.c(318): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\mapping0.c(335): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\mapping0.c(393): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         lsp.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\lsp.c(252): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\lsp.c(259): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\lsp.c(276): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\lsp.c(320): warning C4127: conditional expression is constant
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\lsp.c(352): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\lsp.c(399): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\lsp.c(451): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\lsp.c(454): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         lpc.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\lpc.c(130): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+         lookup.c
+         info.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\info.c(57): warning C4244: '=' : conversion from 'long' to 'char', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\info.c(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\info.c(79): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\info.c(80): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\info.c(81): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\info.c(103): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\info.c(104): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\info.c(122): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\info.c(123): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+         floor1.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\floor1.c(292): warning C4244: 'initializing' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\floor1.c(516): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\floor1.c(517): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         floor0.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\floor0.c(126): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\floor0.c(137): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         envelope.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\envelope.c(48): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\envelope.c(65): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\envelope.c(68): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\envelope.c(127): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\envelope.c(145): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         codebook.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\codebook.c(183): warning C4244: '=' : conversion from 'long' to 'char', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\codebook.c(192): warning C4244: '=' : conversion from 'long' to 'char', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\codebook.c(214): warning C4244: '=' : conversion from 'long' to 'char', possible loss of data
+         block.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\block.c(863): warning C4244: 'initializing' : conversion from 'ogg_int64_t' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\block.c(901): warning C4244: 'initializing' : conversion from 'ogg_int64_t' to 'long', possible loss of data
+         bitrate.c
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\bitrate.c(42): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\bitrate.c(43): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\bitrate.c(44): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\bitrate.c(51): warning C4244: 'initializing' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\bitrate.c(83): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\bitrate.c(88): warning C4244: 'initializing' : conversion from 'double' to 'long', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\bitrate.c(135): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         Generating Code...
+         Compiling...
+         analysis.c
+         Generating Code...
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libvorbis\lib\analysis.c(47): warning C4706: assignment within conditional expression
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\\Debug\libvorbis_static.lib" /NOLOGO Win32\Debug\analysis.obj
+         Win32\Debug\bitrate.obj
+         Win32\Debug\block.obj
+         Win32\Debug\codebook.obj
+         Win32\Debug\envelope.obj
+         Win32\Debug\floor0.obj
+         Win32\Debug\floor1.obj
+         Win32\Debug\info.obj
+         Win32\Debug\lookup.obj
+         Win32\Debug\lpc.obj
+         Win32\Debug\lsp.obj
+         Win32\Debug\mapping0.obj
+         Win32\Debug\mdct.obj
+         Win32\Debug\psy.obj
+         Win32\Debug\registry.obj
+         Win32\Debug\res0.obj
+         Win32\Debug\sharedbook.obj
+         Win32\Debug\smallft.obj
+         Win32\Debug\synthesis.obj
+         Win32\Debug\vorbisenc.obj
+         Win32\Debug\window.obj
+         libvorbis_static.vcxproj -> C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\\Debug\libvorbis_static.lib
+       FinalizeBuildStatus:
+         Deleting file "Win32\Debug\libvorbis_static.unsuccessfulbuild".
+         Touching "Win32\Debug\libvorbis_static.lastbuildstate".
+     1>Done Building Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libvorbis\win32\VS2010\libvorbis\libvorbis_static.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.88

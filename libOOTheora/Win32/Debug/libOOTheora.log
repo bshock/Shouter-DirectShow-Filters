@@ -1,10 +1,32 @@
-﻿  stdafx.cpp
-  TheoraEncoder.cpp
-  TheoraDecoder.cpp
-  Automatically linking to winmm.lib
-c:\users\bshock\documents\visual studio 2012\projects\shouter3\libootheora\theoradecoder.cpp(65): warning C4127: conditional expression is constant
-c:\users\bshock\documents\visual studio 2012\projects\shouter3\libootheora\theoradecoder.cpp(77): warning C4127: conditional expression is constant
-c:\users\bshock\documents\visual studio 2012\projects\shouter3\libootheora\theoradecoder.cpp(92): warning C4127: conditional expression is constant
-  libOOTheora.cpp
-  Generating Code...
-  libOOTheora.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter3\\Debug\libOOTheora.lib
+﻿Build started 11/8/2015 1:38:16 PM.
+     1>Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libOOTheora\libOOTheora.vcxproj" on node 5 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Win32\Debug\libOOTheora.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Win32\Debug\libOOTheora.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\ /I..\libtheora\include /I..\libogg\include /ZI /nologo /W4 /WX- /Od /Oy- /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _BIND_TO_CURRENT_CRT_VERSION /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D LIBOOTHEORA_EXPORTS /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Win32\Debug\libOOTheora.pch" /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\ /I..\libtheora\include /I..\libogg\include /ZI /nologo /W4 /WX- /Od /Oy- /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _BIND_TO_CURRENT_CRT_VERSION /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D LIBOOTHEORA_EXPORTS /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Win32\Debug\libOOTheora.pch" /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt libOOTheora.cpp TheoraDecoder.cpp TheoraEncoder.cpp
+         TheoraEncoder.cpp
+         TheoraDecoder.cpp
+         Automatically linking to winmm.lib
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libootheora\theoradecoder.cpp(65): warning C4127: conditional expression is constant
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libootheora\theoradecoder.cpp(77): warning C4127: conditional expression is constant
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libootheora\theoradecoder.cpp(92): warning C4127: conditional expression is constant
+         libOOTheora.cpp
+         Generating Code...
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\\Debug\libOOTheora.lib" /NOLOGO Win32\Debug\libOOTheora.obj
+         Win32\Debug\stdafx.obj
+         Win32\Debug\TheoraDecoder.obj
+         Win32\Debug\TheoraEncoder.obj
+         libOOTheora.vcxproj -> C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\\Debug\libOOTheora.lib
+       FinalizeBuildStatus:
+         Deleting file "Win32\Debug\libOOTheora.unsuccessfulbuild".
+         Touching "Win32\Debug\libOOTheora.lastbuildstate".
+     1>Done Building Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libOOTheora\libOOTheora.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.36

@@ -24,7 +24,7 @@ Using MP3ShoutStream
 "port"=dword:00002329
 "mount"="/mp3list"
 "URL"="http://10.0.0.152:9001/mp3list"
-"password"="globalmed123"
+"password"="12345"
 "serverpublic"=dword:00000001
 "reconnectattempts"=dword:00000003
 
@@ -92,7 +92,7 @@ Using OggShoutStream
 "port"=dword:00002329
 "mount"="/mp3list"
 "URL"="http://10.0.0.152:9001/mp3list"
-"password"="globalmed123"
+"password"="12345"
 "serverpublic"=dword:00000001
 "reconnectattempts"=dword:00000003
 

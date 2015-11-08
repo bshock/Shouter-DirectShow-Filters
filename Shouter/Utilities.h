@@ -115,6 +115,8 @@ static void Scale_32_Bit_Buffer(LONG out_width, LONG out_height,
 static HRESULT GetPixelFormat(int bpp, PixelFormat* pixFmt);
 
 static bool GetRegValueFromPath(TCHAR* path, TCHAR* valueName, TCHAR* value, int valsize);
+static bool GetRegValueFromPath(TCHAR* path, TCHAR* valueName, DWORD* value);
 static WCHAR * Utilities::C2WC(char* p);
+static char * Utilities::WC2C(WCHAR* p);
 static const std::string Utilities::CurrentDateTime();
 };

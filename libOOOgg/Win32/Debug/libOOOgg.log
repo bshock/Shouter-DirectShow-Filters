@@ -1,25 +1,56 @@
-﻿  stdafx.cpp
-  StampedOggPacket.cpp
-  OggPaginatorSettings.cpp
-  OggPaginator.cpp
-  OggPageInterleaver.cpp
-  OggPageHeader.cpp
-  OggPage.cpp
-  OggPacketiser.cpp
-  OggPacket.cpp
-  OggMuxStream.cpp
-  OggDataBuffer.cpp
-  Automatically linking to winmm.lib
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(232): warning C4127: conditional expression is constant
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(233): warning C4127: conditional expression is constant
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(286): warning C4127: conditional expression is constant
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(287): warning C4127: conditional expression is constant
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(361): warning C4127: conditional expression is constant
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(362): warning C4127: conditional expression is constant
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(308): warning C4189: 'locPageDataSize' : local variable is initialized but not referenced
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(509): warning C4127: conditional expression is constant
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libooogg\oggdatabuffer.cpp(514): warning C4127: conditional expression is constant
-  libOOOgg.cpp
-  CircularBuffer.cpp
-  Generating Code...
-  libOOOgg.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\\Debug\libOOOgg.lib
+﻿Build started 11/8/2015 1:38:08 PM.
+     1>Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libOOOgg\libOOOgg.vcxproj" on node 4 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Win32\Debug\libOOOgg.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Win32\Debug\libOOOgg.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\ /ZI /nologo /W4 /WX- /Od /Oy- /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _BIND_TO_CURRENT_CRT_VERSION /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Win32\Debug\libOOOgg.pch" /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\ /ZI /nologo /W4 /WX- /Od /Oy- /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _BIND_TO_CURRENT_CRT_VERSION /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Win32\Debug\libOOOgg.pch" /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CircularBuffer.cpp libOOOgg.cpp OggDataBuffer.cpp OggMuxStream.cpp OggPacket.cpp OggPacketiser.cpp OggPage.cpp OggPageHeader.cpp OggPageInterleaver.cpp OggPaginator.cpp OggPaginatorSettings.cpp StampedOggPacket.cpp
+         StampedOggPacket.cpp
+         OggPaginatorSettings.cpp
+         OggPaginator.cpp
+         OggPageInterleaver.cpp
+         OggPageHeader.cpp
+         OggPage.cpp
+         OggPacketiser.cpp
+         OggPacket.cpp
+         OggMuxStream.cpp
+         OggDataBuffer.cpp
+         Automatically linking to winmm.lib
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libooogg\oggdatabuffer.cpp(232): warning C4127: conditional expression is constant
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libooogg\oggdatabuffer.cpp(233): warning C4127: conditional expression is constant
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libooogg\oggdatabuffer.cpp(286): warning C4127: conditional expression is constant
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libooogg\oggdatabuffer.cpp(287): warning C4127: conditional expression is constant
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libooogg\oggdatabuffer.cpp(361): warning C4127: conditional expression is constant
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libooogg\oggdatabuffer.cpp(362): warning C4127: conditional expression is constant
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libooogg\oggdatabuffer.cpp(308): warning C4189: 'locPageDataSize' : local variable is initialized but not referenced
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libooogg\oggdatabuffer.cpp(509): warning C4127: conditional expression is constant
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libooogg\oggdatabuffer.cpp(514): warning C4127: conditional expression is constant
+         libOOOgg.cpp
+         CircularBuffer.cpp
+         Generating Code...
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\\Debug\libOOOgg.lib" /NOLOGO Win32\Debug\CircularBuffer.obj
+         Win32\Debug\libOOOgg.obj
+         Win32\Debug\OggDataBuffer.obj
+         Win32\Debug\OggMuxStream.obj
+         Win32\Debug\OggPacket.obj
+         Win32\Debug\OggPacketiser.obj
+         Win32\Debug\OggPage.obj
+         Win32\Debug\OggPageHeader.obj
+         Win32\Debug\OggPageInterleaver.obj
+         Win32\Debug\OggPaginator.obj
+         Win32\Debug\OggPaginatorSettings.obj
+         Win32\Debug\StampedOggPacket.obj
+         Win32\Debug\stdafx.obj
+         libOOOgg.vcxproj -> C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\\Debug\libOOOgg.lib
+       FinalizeBuildStatus:
+         Deleting file "Win32\Debug\libOOOgg.unsuccessfulbuild".
+         Touching "Win32\Debug\libOOOgg.lastbuildstate".
+     1>Done Building Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libOOOgg\libOOOgg.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.83

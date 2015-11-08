@@ -1,7 +1,30 @@
-﻿  stdafx.cpp
-  BasicSeekPassThrough.cpp
-  AbstractTransformOutputPin.cpp
-  AbstractTransformInputPin.cpp
-  AbstractTransformFilter.cpp
-  Generating Code...
-  libDirectshowAbstracts.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\\Debug\libDirectshowAbstracts.lib
+﻿Build started 11/8/2015 1:38:13 PM.
+     1>Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libDirectshowAbstracts\libDirectshowAbstracts.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Win32\Debug\libDirectshowAbstracts.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Win32\Debug\libDirectshowAbstracts.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\directshow\baseclasses /ZI /nologo /W4 /WX- /Od /Oy- /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Win32\Debug\libDirectshowAbstracts.pch" /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\directshow\baseclasses /ZI /nologo /W4 /WX- /Od /Oy- /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Win32\Debug\libDirectshowAbstracts.pch" /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AbstractTransformFilter.cpp AbstractTransformInputPin.cpp AbstractTransformOutputPin.cpp BasicSeekPassThrough.cpp
+         BasicSeekPassThrough.cpp
+         AbstractTransformOutputPin.cpp
+         AbstractTransformInputPin.cpp
+         AbstractTransformFilter.cpp
+         Generating Code...
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\\Debug\libDirectshowAbstracts.lib" /LIBPATH:..\directshow\baseclasses\Debug /NOLOGO Win32\Debug\AbstractTransformFilter.obj
+         Win32\Debug\AbstractTransformInputPin.obj
+         Win32\Debug\AbstractTransformOutputPin.obj
+         Win32\Debug\BasicSeekPassThrough.obj
+         Win32\Debug\stdafx.obj
+         libDirectshowAbstracts.vcxproj -> C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\\Debug\libDirectshowAbstracts.lib
+       FinalizeBuildStatus:
+         Deleting file "Win32\Debug\libDirectshowAbstracts.unsuccessfulbuild".
+         Touching "Win32\Debug\libDirectshowAbstracts.lastbuildstate".
+     1>Done Building Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libDirectshowAbstracts\libDirectshowAbstracts.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.91

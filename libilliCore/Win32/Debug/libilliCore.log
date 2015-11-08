@@ -1,7 +1,30 @@
-﻿  stdafx.cpp
-  StringHelper.cpp
-  libilliCore.cpp
-  iLE_Math.cpp
-  iBE_Math.cpp
-  Generating Code...
-  libilliCore.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\\Debug\libilliCore.lib
+﻿Build started 11/8/2015 1:38:06 PM.
+     1>Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libilliCore\libilliCore.vcxproj" on node 3 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Win32\Debug\libilliCore.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Win32\Debug\libilliCore.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.. /ZI /nologo /W4 /WX- /Od /Oy- /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _BIND_TO_CURRENT_CRT_VERSION /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D LIBILLICORE_EXPORTS /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Win32\Debug\libilliCore.pch" /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.. /ZI /nologo /W4 /WX- /Od /Oy- /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _BIND_TO_CURRENT_CRT_VERSION /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D LIBILLICORE_EXPORTS /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Win32\Debug\libilliCore.pch" /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt iBE_Math.cpp iLE_Math.cpp libilliCore.cpp StringHelper.cpp
+         StringHelper.cpp
+         libilliCore.cpp
+         iLE_Math.cpp
+         iBE_Math.cpp
+         Generating Code...
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\\Debug\libilliCore.lib" /NOLOGO Win32\Debug\iBE_Math.obj
+         Win32\Debug\iLE_Math.obj
+         Win32\Debug\libilliCore.obj
+         Win32\Debug\stdafx.obj
+         Win32\Debug\StringHelper.obj
+         libilliCore.vcxproj -> C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\\Debug\libilliCore.lib
+       FinalizeBuildStatus:
+         Deleting file "Win32\Debug\libilliCore.unsuccessfulbuild".
+         Touching "Win32\Debug\libilliCore.lastbuildstate".
+     1>Done Building Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libilliCore\libilliCore.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.87

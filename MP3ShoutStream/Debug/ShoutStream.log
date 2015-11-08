@@ -1,47 +1,116 @@
-﻿  stdafx.cpp
-  Utilities.cpp
-Utilities.cpp(641): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : see declaration of 'localtime'
-  RenderFilter.cpp
-  STREAMS.H included TWICE
-RenderFilter.cpp(154): warning C4150: deletion of pointer to incomplete type 'shout'; no destructor called
-          C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\libshout\include\shout/shout.h(58) : see declaration of 'shout'
-RenderFilter.cpp(321): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
-RenderFilter.cpp(323): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
-RenderFilter.cpp(324): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
-RenderFilter.cpp(327): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
-RenderFilter.cpp(328): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
-RenderFilter.cpp(351): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
-RenderFilter.cpp(363): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
-RenderFilter.cpp(370): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
-RenderFilter.cpp(377): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : see declaration of 'strcpy'
-RenderFilter.cpp(402): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(164) : see declaration of 'strerror'
-  Generating Code...
-strmbasd.lib(mtype.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
-     Creating library C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\mp3ShoutStream.lib and object C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\mp3ShoutStream.exp
-mp3ShoutStream.exp : warning LNK4070: /OUT:RenderFilter.dll directive in .EXP differs from output filename 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\mp3ShoutStream.dll'; ignoring directive
-  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
-mp3ShoutStream.exp : warning LNK4070: /OUT:RenderFilter.dll directive in .EXP differs from output filename 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\mp3ShoutStream.dll'; ignoring directive
-strmbasd.lib(amfilter.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(amfilter.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
-strmbasd.lib(amvideo.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(amvideo.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
-strmbasd.lib(arithutil.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(arithutil.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
-strmbasd.lib(combase.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(combase.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
-strmbasd.lib(ctlutil.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(ctlutil.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
-strmbasd.lib(dllentry.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(dllentry.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
-strmbasd.lib(dllsetup.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(dllsetup.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
-strmbasd.lib(mtype.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(mtype.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
-strmbasd.lib(renbase.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(renbase.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
-strmbasd.lib(wxdebug.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(wxdebug.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
-strmbasd.lib(wxlist.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(wxlist.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
-strmbasd.lib(wxutil.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(wxutil.obj)' or at 'C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
-  ShoutStream.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Debug\mp3ShoutStream.dll
+﻿Build started 11/8/2015 1:38:19 PM.
+     1>Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\MP3ShoutStream\ShoutStream.vcxproj" on node 5 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\mp3ShoutStream.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\mp3ShoutStream.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\directshow\baseclasses /I"..\..\..\..\..\Program Files\Microsoft SDKs\Windows\v7.0\Include" /I..\libshout\include /I..\libvorbis\include /I..\libogg\include /I..\speex\include /Zi /nologo /W3 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D VIDEOTRANSMITTER_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /GF- /Gm- /EHsc /MDd /Zp16 /GS- /Gy- /arch:SSE2 /fp:fast /fp:except- /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\mp3ShoutStream.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\directshow\baseclasses /I"..\..\..\..\..\Program Files\Microsoft SDKs\Windows\v7.0\Include" /I..\libshout\include /I..\libvorbis\include /I..\libogg\include /I..\speex\include /Zi /nologo /W3 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D VIDEOTRANSMITTER_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /GF- /Gm- /EHsc /MDd /Zp16 /GS- /Gy- /arch:SSE2 /fp:fast /fp:except- /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\mp3ShoutStream.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Utilities.cpp RenderFilter.cpp
+         Utilities.cpp
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstdio(48): warning C4995: 'gets': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstdio(52): warning C4995: 'sprintf': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstdio(55): warning C4995: 'vsprintf': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstring(21): warning C4995: 'strcat': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstring(22): warning C4995: 'strcpy': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cwchar(30): warning C4995: 'swprintf': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cwchar(31): warning C4995: 'vswprintf': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cwchar(33): warning C4995: 'wcscat': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cwchar(35): warning C4995: 'wcscpy': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string(757): warning C4995: 'swprintf': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string(766): warning C4995: 'swprintf': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string(775): warning C4995: 'swprintf': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\atlconv.h(757): warning C4995: 'wcscpy': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\atlconv.h(768): warning C4995: 'wcscat': name was marked as #pragma deprecated
+     1>Utilities.cpp(634): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+         RenderFilter.cpp
+         STREAMS.H included TWICE
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstdio(48): warning C4995: 'gets': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstdio(52): warning C4995: 'sprintf': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstdio(55): warning C4995: 'vsprintf': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstring(21): warning C4995: 'strcat': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstring(22): warning C4995: 'strcpy': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cwchar(30): warning C4995: 'swprintf': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cwchar(31): warning C4995: 'vswprintf': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cwchar(33): warning C4995: 'wcscat': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cwchar(35): warning C4995: 'wcscpy': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string(757): warning C4995: 'swprintf': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string(766): warning C4995: 'swprintf': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string(775): warning C4995: 'swprintf': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\atlconv.h(757): warning C4995: 'wcscpy': name was marked as #pragma deprecated
+     1>c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\atlconv.h(768): warning C4995: 'wcscat': name was marked as #pragma deprecated
+     1>RenderFilter.cpp(154): warning C4150: deletion of pointer to incomplete type 'shout'; no destructor called
+                 C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libshout\include\shout/shout.h(58) : see declaration of 'shout'
+     1>RenderFilter.cpp(321): warning C4995: 'strcpy': name was marked as #pragma deprecated
+     1>RenderFilter.cpp(321): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>RenderFilter.cpp(323): warning C4995: 'strcpy': name was marked as #pragma deprecated
+     1>RenderFilter.cpp(323): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>RenderFilter.cpp(324): warning C4995: 'strcpy': name was marked as #pragma deprecated
+     1>RenderFilter.cpp(324): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>RenderFilter.cpp(327): warning C4995: 'strcpy': name was marked as #pragma deprecated
+     1>RenderFilter.cpp(327): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>RenderFilter.cpp(328): warning C4995: 'strcpy': name was marked as #pragma deprecated
+     1>RenderFilter.cpp(328): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>RenderFilter.cpp(351): warning C4995: 'strcpy': name was marked as #pragma deprecated
+     1>RenderFilter.cpp(351): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>RenderFilter.cpp(363): warning C4995: 'strcpy': name was marked as #pragma deprecated
+     1>RenderFilter.cpp(363): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>RenderFilter.cpp(370): warning C4995: 'strcpy': name was marked as #pragma deprecated
+     1>RenderFilter.cpp(370): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>RenderFilter.cpp(377): warning C4995: 'strcpy': name was marked as #pragma deprecated
+     1>RenderFilter.cpp(377): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>RenderFilter.cpp(402): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(157) : see declaration of 'strerror'
+         Generating Code...
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\MP3ShoutStream.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\directshow\baseclasses\Debug /LIBPATH:..\Debug strmbasd.lib ws2_32.lib winmm.lib user32.lib advapi32.lib ole32.lib oleaut32.lib /NODEFAULTLIB:libc.lib /NODEFAULTLIB:libcmt.lib /NODEFAULTLIB:libcd.lib /NODEFAULTLIB:libcmtd.lib /DEF:".\RenderFilter.def" /MANIFEST /ManifestFile:"Debug\mp3ShoutStream.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\mp3ShoutStream.pdb" /SUBSYSTEM:WINDOWS /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\mp3ShoutStream.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
+         Debug\Utilities.obj
+         Debug\RenderFilter.obj
+         "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\libDirectshowAbstracts.lib"
+         "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\libFLACHelper.lib"
+         "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\libilliCore.lib"
+         "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\libogg_static.lib"
+         "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\libOOOgg.lib"
+         "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libshout\win32\Debug\libshout.lib"
+         "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\libspeex.lib"
+         "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\libtheora_static.lib"
+         "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\libvorbis_static.lib"
+     1>strmbasd.lib(mtype.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+            Creating library C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\mp3ShoutStream.lib and object C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\mp3ShoutStream.exp
+     1>mp3ShoutStream.exp : warning LNK4070: /OUT:RenderFilter.dll directive in .EXP differs from output filename 'C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\MP3ShoutStream.dll'; ignoring directive
+         LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+     1>mp3ShoutStream.exp : warning LNK4070: /OUT:RenderFilter.dll directive in .EXP differs from output filename 'C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\MP3ShoutStream.dll'; ignoring directive
+     1>strmbasd.lib(amfilter.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(amfilter.obj)' or at 'C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+     1>strmbasd.lib(amvideo.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(amvideo.obj)' or at 'C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+     1>strmbasd.lib(arithutil.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(arithutil.obj)' or at 'C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+     1>strmbasd.lib(combase.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(combase.obj)' or at 'C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+     1>strmbasd.lib(ctlutil.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(ctlutil.obj)' or at 'C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+     1>strmbasd.lib(dllentry.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(dllentry.obj)' or at 'C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+     1>strmbasd.lib(dllsetup.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(dllsetup.obj)' or at 'C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+     1>strmbasd.lib(mtype.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(mtype.obj)' or at 'C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+     1>strmbasd.lib(renbase.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(renbase.obj)' or at 'C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+     1>strmbasd.lib(wxdebug.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(wxdebug.obj)' or at 'C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+     1>strmbasd.lib(wxlist.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(wxlist.obj)' or at 'C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+     1>strmbasd.lib(wxutil.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'strmbasd.lib(wxutil.obj)' or at 'C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\vc100.pdb'; linking object as if no debug info
+         ShoutStream.vcxproj -> C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\mp3ShoutStream.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\Debug\MP3ShoutStream.dll;#2" /manifest Debug\mp3ShoutStream.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\mp3ShoutStream.unsuccessfulbuild".
+         Touching "Debug\mp3ShoutStream.lastbuildstate".
+     1>Done Building Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\MP3ShoutStream\ShoutStream.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.61

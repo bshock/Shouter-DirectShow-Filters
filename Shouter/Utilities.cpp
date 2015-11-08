@@ -590,6 +590,21 @@ bool Utilities::GetRegValueFromPath(TCHAR* path, TCHAR* valueName, TCHAR* value,
 	return false;
 }
 
+bool Utilities::GetRegValueFromPath(TCHAR* path, TCHAR* valueName, DWORD* value)
+{
+	HKEY key;
+	if (RegOpenKey(HKEY_CURRENT_USER, path, &key) == ERROR_SUCCESS)
+	{
+		DWORD value_length = sizeof ( DWORD);
+		DWORD type = REG_DWORD;
+		RegQueryValueEx(key, valueName, NULL, &type, (unsigned char *)value, &value_length);
+		value[value_length-1] = 0;
+		RegCloseKey(key);
+		return true;
+	}
+	RegCloseKey(key);
+	return false;
+}
 
 WCHAR * Utilities::C2WC(char* p)
 {
@@ -599,6 +614,15 @@ WCHAR * Utilities::C2WC(char* p)
 	pwcsName = new WCHAR[nChars];
 	MultiByteToWideChar(CP_ACP, 0, p, -1, (LPWSTR)pwcsName, nChars);
 	return pwcsName;
+}
+
+char * Utilities::WC2C(WCHAR* p)
+{
+	char* pcName;
+	int nChars = WideCharToMultiByte(CP_ACP, 0, p, -1, NULL, 0, NULL, NULL);
+	pcName = new char[nChars];
+	WideCharToMultiByte(CP_ACP, 0, p, -1, (LPSTR)pcName, nChars, NULL, NULL);
+	return pcName;
 }
 
 const std::string Utilities::CurrentDateTime() {

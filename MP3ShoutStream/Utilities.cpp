@@ -608,7 +608,6 @@ bool Utilities::GetRegValueFromPath(TCHAR* path, TCHAR* valueName, DWORD* value)
 	return false;
 }
 
-
 WCHAR * Utilities::C2WC(char* p)
 {
 	WCHAR *pwcsName;
@@ -621,12 +620,6 @@ WCHAR * Utilities::C2WC(char* p)
 
 char * Utilities::WC2C(WCHAR* p)
 {
-	//WCHAR *pwcsName;
-	//// required size
-	//int nChars = MultiByteToWideChar(CP_ACP, 0, p, -1, NULL, 0);
-	//pwcsName = new WCHAR[nChars];
-	//MultiByteToWideChar(CP_ACP, 0, p, -1, (LPWSTR)pwcsName, nChars);
-	//return pwcsName;
 	char* pcName;
 	int nChars = WideCharToMultiByte(CP_ACP, 0, p, -1, NULL, 0, NULL, NULL);
 	pcName = new char[nChars];

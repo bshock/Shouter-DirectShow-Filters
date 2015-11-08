@@ -432,7 +432,7 @@ HRESULT OggMuxFilter::GetConfigFromRegistry()
 	strcpy(m_ezConfig.URL, "http://10.0.0.160:9001/videolist");
 	m_ezConfig.username = NULL;
 	memset(m_ezConfig.password, 0, MAXCHAR);
-	strcpy(m_ezConfig.password, "globalmed123");
+	strcpy(m_ezConfig.password, "12345");
 	strcpy(m_ezConfig.format, "THEORA");
 	m_ezConfig.fileName = NULL;
 
@@ -450,6 +450,52 @@ HRESULT OggMuxFilter::GetConfigFromRegistry()
 	m_ezConfig.serverPublic = 1;
 	m_ezConfig.fileNameIsProgram = 0;
 	m_ezConfig.reconnectAttempts = 3;
+
+	TCHAR val[MAX_PATH];
+
+	memset(val, 0, MAX_PATH*sizeof(TCHAR));
+	if (Utilities::GetRegValueFromPath(TEXT("SOFTWARE\\DSFILTERS\\OGGSHOUTSTREAM"), TEXT("host"), val, MAX_PATH)) {
+		char* host = Utilities::WC2C(val);
+		strcpy(m_ezConfig.host, host);
+		delete [] host;
+	}
+
+	DWORD dwVal = 0;
+	if (Utilities::GetRegValueFromPath(TEXT("SOFTWARE\\DSFILTERS\\OGGSHOUTSTREAM"), TEXT("port"), &dwVal)) {
+		m_ezConfig.port = (int)dwVal;
+	}
+
+	memset(val, 0, MAX_PATH*sizeof(TCHAR));
+	if (Utilities::GetRegValueFromPath(TEXT("SOFTWARE\\DSFILTERS\\OGGSHOUTSTREAM"), TEXT("mount"), val, MAX_PATH)) {
+		char* mount = Utilities::WC2C(val);
+		strcpy(m_ezConfig.mount, mount);
+		delete [] mount;
+	}
+
+	memset(val, 0, MAX_PATH*sizeof(TCHAR));
+	if (Utilities::GetRegValueFromPath(TEXT("SOFTWARE\\DSFILTERS\\OGGSHOUTSTREAM"), TEXT("URL"), val, MAX_PATH)) {
+		char* url = Utilities::WC2C(val);
+		strcpy(m_ezConfig.URL, url);
+		delete [] url;
+	}
+
+	memset(val, 0, MAX_PATH*sizeof(TCHAR));
+	if (Utilities::GetRegValueFromPath(TEXT("SOFTWARE\\DSFILTERS\\OGGSHOUTSTREAM"), TEXT("password"), val, MAX_PATH)) {
+		char* password = Utilities::WC2C(val);
+		strcpy(m_ezConfig.password, password);
+		delete [] password;
+	}
+
+	//Note: GetRegValueFromPath doesn't like to reuse DWORDs sent into it. You could see a crash when it goes into StreamSetup
+	DWORD dwVal2 = 0;
+	if (Utilities::GetRegValueFromPath(TEXT("SOFTWARE\\DSFILTERS\\OGGSHOUTSTREAM"), TEXT("serverpublic"), &dwVal2)) {
+		m_ezConfig.serverPublic = (int)dwVal2;
+	}
+
+	DWORD dwVal3 = 0;
+	if (Utilities::GetRegValueFromPath(TEXT("SOFTWARE\\DSFILTERS\\OGGSHOUTSTREAM"), TEXT("reconnectattempts"), &dwVal3)) {
+		m_ezConfig.reconnectAttempts = (int)dwVal3;
+	}
 
 	return S_OK;
 }

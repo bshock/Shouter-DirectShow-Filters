@@ -1,15 +1,39 @@
-﻿  stdafx.cpp
-  FLACPushDecoder.cpp
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libflachelper\flacpushdecoder.cpp(160): warning C4100: 'inMetadata' : unreferenced formal parameter
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libflachelper\flacpushdecoder.cpp(164): warning C4100: 'inStatus' : unreferenced formal parameter
-  FLACMetadataSplitter.cpp
-  FLACHeaderTweaker.cpp
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libflachelper\flacheadertweaker.cpp(90): warning C4244: '=' : conversion from 'unsigned int' to 'unsigned char', possible loss of data
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libflachelper\flacheadertweaker.cpp(126): warning C4389: '!=' : signed/unsigned mismatch
-  FLACEncoderSettings.cpp
-  FLACEncoder.cpp
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libflachelper\flacencoder.cpp(85): warning C4189: 'locRetVal' : local variable is initialized but not referenced
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libflachelper\flacencoder.cpp(111): warning C4100: 'inCurrentFrame' : unreferenced formal parameter
-c:\users\bshock\documents\visual studio 2012\projects\shouter4\libflachelper\flacencoder.cpp(141): warning C4100: 'metadata' : unreferenced formal parameter
-  Generating Code...
-  libFLACHelper.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\\Debug\libFLACHelper.lib
+﻿Build started 11/8/2015 1:38:06 PM.
+     1>Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libFLACHelper\libFLACHelper.vcxproj" on node 4 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Win32\Debug\libFLACHelper.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Win32\Debug\libFLACHelper.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\ /I..\libflac\include /ZI /nologo /W4 /WX- /Od /Oy- /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _BIND_TO_CURRENT_CRT_VERSION /D WIN32 /D _DEBUG /D _LIB /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Win32\Debug\libFLACHelper.pch" /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\ /I..\libflac\include /ZI /nologo /W4 /WX- /Od /Oy- /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _BIND_TO_CURRENT_CRT_VERSION /D WIN32 /D _DEBUG /D _LIB /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Win32\Debug\libFLACHelper.pch" /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FLACEncoder.cpp FLACEncoderSettings.cpp FLACHeaderTweaker.cpp FLACMetadataSplitter.cpp FLACPushDecoder.cpp
+         FLACPushDecoder.cpp
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libflachelper\flacpushdecoder.cpp(160): warning C4100: 'inMetadata' : unreferenced formal parameter
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libflachelper\flacpushdecoder.cpp(164): warning C4100: 'inStatus' : unreferenced formal parameter
+         FLACMetadataSplitter.cpp
+         FLACHeaderTweaker.cpp
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libflachelper\flacheadertweaker.cpp(90): warning C4244: '=' : conversion from 'unsigned int' to 'unsigned char', possible loss of data
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libflachelper\flacheadertweaker.cpp(126): warning C4389: '!=' : signed/unsigned mismatch
+         FLACEncoderSettings.cpp
+         FLACEncoder.cpp
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libflachelper\flacencoder.cpp(85): warning C4189: 'locRetVal' : local variable is initialized but not referenced
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libflachelper\flacencoder.cpp(111): warning C4100: 'inCurrentFrame' : unreferenced formal parameter
+     1>c:\users\brian shock\documents\visual studio 2010\projects\shouter4\libflachelper\flacencoder.cpp(141): warning C4100: 'metadata' : unreferenced formal parameter
+         Generating Code...
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\\Debug\libFLACHelper.lib" /NOLOGO Win32\Debug\FLACEncoder.obj
+         Win32\Debug\FLACEncoderSettings.obj
+         Win32\Debug\FLACHeaderTweaker.obj
+         Win32\Debug\FLACMetadataSplitter.obj
+         Win32\Debug\FLACPushDecoder.obj
+         Win32\Debug\stdafx.obj
+         libFLACHelper.vcxproj -> C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\\Debug\libFLACHelper.lib
+       FinalizeBuildStatus:
+         Deleting file "Win32\Debug\libFLACHelper.unsuccessfulbuild".
+         Touching "Win32\Debug\libFLACHelper.lastbuildstate".
+     1>Done Building Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libFLACHelper\libFLACHelper.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.16
