@@ -1,9 +1,0 @@
-﻿  stdafx.cpp
-  libOOTheora.cpp
-  TheoraDecoder.cpp
-  Automatically linking to winmm.lib
-TheoraDecoder.cpp(65): warning C4127: conditional expression is constant
-TheoraDecoder.cpp(77): warning C4127: conditional expression is constant
-TheoraDecoder.cpp(92): warning C4127: conditional expression is constant
-  TheoraEncoder.cpp
-  libOOTheora.vcxproj -> C:\Users\bshock\Documents\Visual Studio 2012\Projects\Shouter4\Win32\Release\libOOTheora.lib

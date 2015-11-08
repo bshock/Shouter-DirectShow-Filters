@@ -1,4 +1,4 @@
-﻿Build started 11/8/2015 1:38:06 PM.
+﻿Build started 11/8/2015 3:28:52 PM.
      1>Project "C:\Users\Brian Shock\Documents\Visual Studio 2010\Projects\Shouter4\libogg\win32\VS2010\libogg_static.vcxproj" on node 5 (rebuild target(s)).
      1>_PrepareForClean:
          Deleting file "Win32\Debug\libogg_static.lastbuildstate".
@@ -20,4 +20,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.13
+Time Elapsed 00:00:00.59
